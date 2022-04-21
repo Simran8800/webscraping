@@ -1,0 +1,94 @@
+[
+    {
+        "Name": "Black Panther",
+        "Rating": "PG-13(SequencesofActionViolence|ABriefRudeGesture)",
+        "Genre": [
+            "Action,",
+            "Adventure,",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "RyanCoogler",
+        "Producer": "KevinFeige",
+        "Writer": "RyanCoogler,JoeRobertCole",
+        "Release Date (Theaters)": "Feb16,2018\u00a0wide",
+        "Release Date (Streaming)": "May2,2018",
+        "Box Office (Gross USA)": "$700.2M",
+        "Runtime": "134m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DTS,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse",
+        "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif",
+        "Movie_info": "After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerful enemy suddenly reappears, T'Challa's mettle as king -- and as Black Panther -- gets tested when he's drawn into a conflict that puts the fate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther to defeat his foes and secure the safety of his people."
+    },
+    {
+        "Name": "Avengers: Endgame",
+        "Rating": "PG-13(SequencesofSci-FiViolence|Action|SomeLanguage)",
+        "Genre": [
+            "Action,",
+            "Adventure,",
+            "Sci-fi,",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "AnthonyRusso,JoeRusso",
+        "Producer": "KevinFeige",
+        "Writer": "ChristopherMarkus,StephenMcFeely",
+        "Release Date (Theaters)": "Apr26,2019\u00a0wide",
+        "Release Date (Streaming)": "Jul30,2019",
+        "Box Office (Gross USA)": "$858.4M",
+        "Runtime": "181m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos,DTS,DolbyDigital,SDDS",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse",
+        "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif",
+        "Movie_info": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe."
+    },
+    {
+        "Name": "Mission: Impossible -- Fallout",
+        "Rating": "PG-13(IntenseSequencesofAction|BriefStrongLanguage|Violence)",
+        "Genre": [
+            "Action,",
+            "Adventure,",
+            "Mystery",
+            "&",
+            "thriller"
+        ],
+        "Original Language": "English",
+        "Director": "ChristopherMcQuarrie",
+        "Producer": "TomCruise,ChristopherMcQuarrie,JakeMyers,J.J.Abrams",
+        "Writer": "ChristopherMcQuarrie",
+        "Release Date (Theaters)": "Jul27,2018\u00a0wide",
+        "Release Date (Streaming)": "Oct23,2018",
+        "Box Office (Gross USA)": "$220.1M",
+        "Runtime": "147m",
+        "Distributor": "ParamountPictures",
+        "Sound Mix": "DTS,DolbyAtmos,DolbyDigital",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif",
+        "Movie_info": "Ethan Hunt and the IMF team join forces with CIA assassin August Walker to prevent a disaster of epic proportions. Arms dealer John Lark and a group of terrorists known as the Apostles plan to use three plutonium cores for a simultaneous nuclear attack on the Vatican, Jerusalem and Mecca, Saudi Arabia. When the weapons go missing, Ethan and his crew find themselves in a desperate race against time to prevent them from falling into the wrong hands."
+    },
+    {
+        "Name": "Mad Max: Fury Road",
+        "Rating": "R(IntenseSequencesofViolence|DisturbingImages)",
+        "Genre": [
+            "Action,",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "GeorgeMiller",
+        "Producer": "DougMitchell,GeorgeMiller,P.J.Voeten",
+        "Writer": "GeorgeMiller,BrendanMcCarthy,NickLathouris",
+        "Release Date (Theaters)": "May15,2015\u00a0wide",
+        "Release Date (Streaming)": "Sep1,2015",
+        "Box Office (Gross USA)": "$153.6M",
+        "Runtime": "120m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "DolbyAtmos,DolbyDigital,SDDS,Datasat",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "Poster_image_url": "/assets/pizza-pie/images/poster_default.c8c896e70c3.gif",
+        "Movie_info": "Years after the collapse of civilization, the tyrannical Immortan Joe enslaves apocalypse survivors inside the desert fortress the Citadel. When the warrior Imperator Furiosa (Charlize Theron) leads the despot's five wives in a daring escape, she forges an alliance with Max Rockatansky (Tom Hardy), a loner and former captive. Fortified in the massive, armored truck the War Rig, they try to outrun the ruthless warlord and his henchmen in a deadly high-speed chase through the Wasteland."
+    }
+]
